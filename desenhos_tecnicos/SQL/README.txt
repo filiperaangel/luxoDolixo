@@ -1,1 +1,1 @@
-Guarde aqui soment arquivos .SQL
+Guardar aqui soment arquivos .SQL
